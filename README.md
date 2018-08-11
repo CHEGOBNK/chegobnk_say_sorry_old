@@ -11,4 +11,4 @@ HeEretiK - тестировка
 frazhus - коммунитименеджмент
 Kuodos, lovalova322, Nyandola, Blavier, Whichbonk - посильная помощь
 GordonHollow - основа лора для данного аддона
-спасибо создателям аддонов The Magic Era и The Golden era за предоставленные спрайты
+спасибо создателям аддонов The Imperial Era и The Golden era за предоставленные спрайты
